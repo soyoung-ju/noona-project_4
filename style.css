@@ -1,0 +1,75 @@
+.main-position {
+    left:50%;
+    transform:translateX(-50%);
+    position:absolute;
+}
+
+.main{
+    top:260px;
+}
+
+.main-title{
+    top:350px;
+    margin-top: 14px;
+
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 1.334;
+    letter-spacing: 0em;
+}
+
+.input-area{
+    align-items: center;
+}
+.input-email{
+    width: 390px;
+    height: 56px;
+    margin-top: 430px;
+    border-color: rgba(0, 0, 0, 0.23);
+    border-width: 1px;
+    border-radius: 4px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    text-indent: 10px
+}
+
+.input-pwd{
+    width: 390px;
+    height: 56px;
+    margin-top: 510px;
+    border-color: rgba(0, 0, 0, 0.23);
+    border-width: 1px;
+    border-radius: 4px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    text-indent: 10px
+}
+
+.log-btn{
+    width: 396px;
+    height: 36px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(144, 19, 254);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    border-color: rgba(0, 0, 0, 0.23);
+    border-width: 1px;
+    margin-top: 600px;
+    border-radius: 4px;
+}
+
+.sign_area{
+    margin-top: 670px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 0.875rem;
+    line-height: 1.43;
+    letter-spacing: 0.01071em;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.sign_a-tag{
+    color: rgb(25, 118, 210)
+}
